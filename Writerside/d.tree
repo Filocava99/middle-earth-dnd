@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="d"
-                 name="D&D"
+                 name="D&amp;D"
                  start-page="starter-topic.md">
 
     <toc-element topic="Città-della-Terra-di-Mezzo.md">
