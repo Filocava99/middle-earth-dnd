@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="d"
+                 name="D&D"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="Città-della-Terra-di-Mezzo.md">
+        <toc-element topic="city-of-mithlond.md">
+            <toc-element topic="Tempio-del-Pugno-di-Ferro.md"/>
+            <toc-element topic="Missioni-a-Mithlond.md"/>
+            <toc-element topic="Non-completate.md">
+                <toc-element topic="Alla-Ricerca-del-Tumulo-Perduto.md"/>
+                <toc-element topic="Scorta-della-Carovana-Elfica.md"/>
+                <toc-element topic="La-Caccia-ai-Lupi.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Oggetti-magici-della-Terra-di-Mezzo.md">
+        <toc-element topic="Anelli-Magici.md">
+            <toc-element topic="Maedhros.md"/>
+        </toc-element>
+        <toc-element topic="Sigilli-di-Khoragan.md">
+            <toc-element topic="Sigillo-dell-Acqua.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Dungeons-della-Terra-di-Mezzo.md">
+        <toc-element topic="Nido-delle-Grandi-Aquile.md"/>
+    </toc-element>
+    <toc-element topic="starter-topic.md"/>
+</instance-profile>
