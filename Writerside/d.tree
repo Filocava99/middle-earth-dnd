@@ -8,9 +8,16 @@
 
     <toc-element topic="Città-della-Terra-di-Mezzo.md">
         <toc-element topic="city-of-mithlond.md">
+            <toc-element topic="Negozi.md"/>
             <toc-element topic="Tempio-del-Pugno-di-Ferro.md"/>
             <toc-element topic="Missioni-a-Mithlond.md"/>
             <toc-element topic="Non-completate.md">
+                <toc-element topic="Assalto-alla-banda-degli-orchi-sulle-colline.md"/>
+                <toc-element topic="La-miniera-infestata.md"/>
+                <toc-element topic="Il-mistero-delle-pietre-runiche.md"/>
+                <toc-element topic="Il-segreto-del-lago-oscuro.md"/>
+                <toc-element topic="Il-Cinghiale-Selvatico.md"/>
+                <toc-element topic="Cattura-del-bandito-Dornal.md"/>
                 <toc-element topic="Alla-Ricerca-del-Tumulo-Perduto.md"/>
                 <toc-element topic="Scorta-della-Carovana-Elfica.md"/>
                 <toc-element topic="La-Caccia-ai-Lupi.md"/>
