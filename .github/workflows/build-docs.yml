@@ -11,7 +11,7 @@ permissions:
 
 env:
   INSTANCE: 'Writerside/d'
-  ARTIFACT: 'webHelpHI2-all.zip'
+  ARTIFACT: 'webHelpD2-all.zip'
   DOCKER_VERSION: '242.21870'
 
 jobs:
@@ -36,7 +36,7 @@ jobs:
           name: docs
           path: |
             artifacts/${{ env.ARTIFACT }}
-#            artifacts/report.json
+            artifacts/report.json
           retention-days: 7
   test:
     needs: build
