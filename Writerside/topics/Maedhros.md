@@ -147,3 +147,9 @@ Quattro volte al giorno, l'abilità drena la vita in un'area di **25 piedi**, co
 ---
 
 Diventare totalmente malvagio elimina gran parte dei malus dell'Anello di Celebrimbor Corrotto, trasformando l’utilizzatore in un formidabile individuo con enormi poteri distruttivi e poche restrizioni. Tuttavia, comporta la perdita di qualunque rimorso e un radicale cambiamento morale.
+<seealso style="cards">
+<category ref="magic-items">
+<a href="Anelli-Magici.md" />
+<a href="Sigillo-dell-Acqua.md" />
+</category>
+</seealso>

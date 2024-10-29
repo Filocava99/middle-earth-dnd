@@ -3,4 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/categories.dtd">
 <categories>
     <category id="wrs" name="Writerside documentation" order="1"/>
+    <category id="cities" name="Città" order="2"/>
+    <category id="characters" name="Personaggi" order="3"/>
+    <category id="magic-items" name="Oggetti Magici" order="4"/>
+    <category id="lindon" name="Regno di Lindon" order="5" />
 </categories>
