@@ -31,6 +31,10 @@
             <toc-element topic="Maedhros.md"/>
         </toc-element>
         <toc-element topic="Sigilli-di-Khoragan.md">
+            <toc-element topic="Sigillo-del-Controllo.md"/>
+            <toc-element topic="Sigillo-della-Terra.md"/>
+            <toc-element topic="Sigillo-dell-Aria.md"/>
+            <toc-element topic="Sigillo-del-Fuoco.md"/>
             <toc-element topic="Sigillo-dell-Acqua.md"/>
         </toc-element>
     </toc-element>
