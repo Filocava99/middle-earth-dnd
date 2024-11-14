@@ -41,7 +41,7 @@ Prendendo invece il corridoio di destra, vi avventurate per circa dieci metri, c
 La porta è fatta di legno scuro rinforzato con borchie metalliche annerite, e sulla sua superficie sono incisi simboli ormai erosi, raffiguranti antiche scene di battaglia e creature alate. Una sottile corrente d'aria sembra filtrare dalla porta, e l’aria è carica di un odore di umidità e di polvere secolare.
 
 ### Stanza 12
-<img style="block" src="Stanza segreta.png" alt="Stanza segreta"/>
+<img style="block" src="Stanza 12.png" alt="Stanza 12"/>
 
 Entrate in una sala ampia e rettangolare, lunga circa 9 metri e larga 7,5 metri, che sembra un antico santuario ormai deserto. La stanza è divisa in tre navate da due file di colonne scolpite nella roccia viva. Ogni colonna è decorata con antichi motivi geometrici e intricati intagli che raffigurano simboli perduti, probabilmente legati a culti ormai dimenticati.
 
@@ -156,6 +156,8 @@ Nell'angolo nord-ovest della stanza, l’occhio più attento può notare un’an
 - **Investigare (DC 13)**: Scoprire un meccanismo di apertura celato sotto il bordo inferiore della lastra, che può essere attivato con una leggera pressione.
 
 #### Stanza Segreta
+
+<img style="block" src="Stanza segreta.png" alt="Stanza segreta"/>
 
 Il passaggio segreto conduce a una piccola scalinata che scende verso una stanza quadrata di 7,5 metri per lato. Questa camera è avvolta in un silenzio profondo, e le pareti sono prive di decorazioni, a eccezione di simboli antichi incisi con precisione, che sembrano risalire a un’epoca ancora più remota del resto del tempio. Il pavimento è leggermente rialzato al centro, formando una sorta di piattaforma circolare che emana una tenue luminescenza azzurra, come se fosse intrisa di una magia residua.
 
