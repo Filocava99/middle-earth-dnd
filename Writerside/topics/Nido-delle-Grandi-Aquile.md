@@ -142,6 +142,11 @@ Un freddo anormale avvolge la stanza, come se una presenza invisibile tratteness
 
 Le ombre danzano sulla porta, e l’atmosfera è intrisa di una tensione palpabile. Vi è un senso di attesa, come se il cuore stesso della montagna trattenesse il respiro, pronto a svelare un segreto secolare per chiunque osi avanzare.
 
+**Mostri**
+1 x Aquila tier 4
+2 x Aquila tier 3
+4 x Aquila tier 2
+
 ### Stanza 13 e 14
 <img style="block" src="Stanza 13 e 14.png" alt="Stanze 13 e 14"/>
 Attraversata la porta sulla sinistra della sala con le tre navate, vi ritrovate in una stanza rettangolare, lunga 7,5 metri e larga 4,5 metri. La luce qui è fioca e soffusa, con solo una torcia ormai spenta che pende da un supporto arrugginito sulla parete. Le ombre si allungano lungo il pavimento coperto da uno strato di polvere spessa, segno che questa stanza non è stata calpestata da molti anni.
@@ -325,6 +330,95 @@ Contenuto dello Scrigno:
 
 Questa stanza appare come il cuore sacro del tempio, un luogo di culto e protezione per i fedeli delle aquile. L’imponente statua e le rune protettive indicano che l’area era riservata a rituali importanti e che solo i degni possono accedere ai tesori custoditi ai piedi della maestosa aquila.
 
+In questa stanza carica di sacralità e mistero, la statua di un'aquila maestosa non è solo un simbolo di devozione, ma anche un potente guardiano. La Sfinge di Pietra che emerge in caso di profanazione è un avversario formidabile, concepita per mettere alla prova un gruppo di avventurieri di livello 8.
+Sfinge di Pietra
+Categoria: Costrutto Medio
+Grado di Sfida: 9 (PE 5.000)
+
+| Classe Armatura         | Punti Ferita         | Velocità         |
+| ----------------------- | -------------------- | ---------------- |
+| 18 (armatura naturale)  | 195 (17d10 + 100)    | 30 ft, volo 50 ft|
+
+| Attributi   | Forza | Destrezza | Costituzione | Intelligenza | Saggezza | Carisma |
+| ----------- | ----- | --------- | ------------ | ------------ | -------- | ------- |
+| Valore      | 21    | 10        | 20           | 16           | 18       | 18      |
+| Modificatore| +5    | +0        | +5           | +3           | +4       | +4      |
+
+**Abilità**
+
+| Tiri Salvezza | Forza +10, Costituzione +10, Saggezza +8 |
+| ------------- | -----------------------------------------|
+| Percezione    | +12                                      |
+
+**Sensi**
+- Scurovisione 120 piedi
+- Percezione Passiva 22
+
+**Lingue**
+- Comprende il Comune e l'Elfico
+
+**Immunità ai Danni e Condizioni**
+- Immune: charme, paura, danno mentale, veleno
+- Immune: danni taglienti e contundenti da attacchi non magici
+
+**Abilità Speciali**
+- **Conversazione Enigmatica.** Prima di attaccare, la Sfinge di Pietra può lanciare un enigma a chi si avvicina. Chi riesce a rispondere correttamente (CD Intelligenza 18) riceve vantaggio su un attacco contro la sfinge per quel turno.
+- **Magia di Pietra.** La Sfinge può usare uno slot di azione leggendaria per lanciare un incantesimo: *Muro di Pietra* o *Polvere di Pietrificazione* (una nube che rallenta entro 20 piedi).
+
+**Azioni**
+- **Attacco Multiplo.** La Sfinge di Pietra compie tre attacchi: due con le zampe e uno con il morso.
+- **Morso.** Attacco con arma da mischia: +10 a colpire, portata 10 piedi, un bersaglio. *Colpisce*: 22 (4d6 + 5) danni contundenti.
+- **Zampe.** Attacco con arma da mischia: +10 a colpire, portata 5 piedi, un bersaglio. *Colpisce*: 16 (2d10 + 5) danni taglienti.
+
+**Azioni Leggendarie**
+La Sfinge di Pietra ha 2 azioni leggendarie che può eseguire alla fine del turno di un’altra creatura:
+
+- **Movimento Veloce.** La Sfinge si muove fino a metà della sua velocità di volo.
+- **Urlo Distruttivo (1/Azione).** Le creature entro 20 piedi devono effettuare un tiro salvezza su Saggezza (CD 17) o subire 20 (4d10) danni sonori e risultare spaventate per il turno seguente.
+
+---
+
+### Descrizione della Stanza
+Quando la Sfinge appare:
+
+- **Porta Sigillata:** Le cerniere arrugginite della porta si serrano di colpo, sigillando l'accesso e impedendo ogni fuga.
+- **Evocazione della Sfinge:** La Sfinge si materializza da dietro la statua dell'aquila, scuotendo la polvere secolare e emergendo tra una folata di energia magica.
+
+La sua presenza è opprimente e carica di antichi poteri protettivi. Questa creatura non attacca senza un certo cerimoniale; prima tenta di comunicare con gli intrusi, chiedendo loro di risolvere un enigma. Tuttavia, è implacabile verso chi si dimostra indegno di profanare il tempio. Solo quando la Sfinge viene sconfitta, il meccanismo della porta si disarma, permettendo il ritorno alla libertà e consentendo accesso al tesoro sacro ai piedi della statua.
+
+#### Enigmi
+##### Enigma del Tempo
+Senza voce mi sussurrano, senza ali volo. Non puoi trattenermi, ma mi segui ovunque vai. Chi sono?
+Risposta: Il tempo.
+##### Enigma dell’Ombra
+Vivo nel sole, scaccio il buio, ma quando cala la sera, nessuno mi vede più. Chi sono?
+Risposta: L'ombra.
+##### Enigma del Pesce
+In acqua nasco, ma lì non vivo. Porto banchetti là dove non respiro. Chi sono?
+Risposta: Il pesce.
+##### Enigma della Montagna
+Alte nasco, basse muoio. Con l'acqua cresco, col vento svanio. Cosa sono?
+Risposta: Una montagna di sabbia.
+##### Enigma del Silenzio
+Più parli, più mi rompi. Chi sono?
+Risposta: Il silenzio.
+##### Enigma del Sole
+Di giorno sono al tuo fianco, di notte mi nascondo. Mai mi riconosci, ma mi cerchi ogni giorno. Chi sono?
+Risposta: Il sole.
+##### Enigma della Luce
+Senza mani costruisco, senza piedi corro. Nasco dalla fiamma, vivo nell'ombra. Chi sono?
+Risposta: La luce.
+##### Enigma del Ponte
+Quando il viaggio è lungo mi troverai, ma mai mi calpesterai. Chi sono?
+Risposta: Un ponte di luce (o arcobaleno).
+##### Enigma dell'uovo
+Ha un occhio ma non vede, vive a pancia in su nel suo guscio. Chi sono?
+Risposta: L'uovo.
+##### Enigma del Cerchio
+Nessun inizio, nessuna fine. Rotondo mi muovo, e fermo resto. In ogni giro, un ciclo, vita e morte. Cosa sono?
+Risposta: Un cerchio (o un ciclo)
+
+
 ### Stanza 4
 <img style="block" src="Stanza 4.png" alt="Stanza 4"/>
 Seguendo il corridoio verso nord e prendendo la biforcazione a sinistra, arrivate in una piccola stanza quadrata di 4,5 metri per lato. L’ambiente è piuttosto spoglio e immerso in un silenzio irreale, rotto soltanto dal lieve eco dei vostri passi che riverbera sulle pareti di pietra. La luce qui è scarsa, e l’aria è densa di umidità e polvere, come se la stanza fosse rimasta sigillata per molto tempo.
@@ -408,6 +502,18 @@ Contenuto dello Scrigno:
 
 Questa stanza appare come un luogo di culto intimo e segreto, riservato a coloro che cercavano la protezione degli spiriti delle aquile prima di intraprendere sfide importanti. I murales e l’altare indicano un’antica venerazione, e il tesoro nascosto rappresenta un’ulteriore ricompensa per i veri devoti che riescono a scoprire i segreti del tempio.
 
+**Mostri**
+
+In questa stanza antica e carica di vibrazioni sacre, due Aquile Guardiane (Grado di Sfida 3) sono nascoste, apparentemente scolpite come parte dei murales stessi. La loro mimetizzazione è perfetta, ma sono in realtà statue animate, pronte a proteggere il tempio e le sue reliquie. Inoltre, in caso di seria minaccia alle sacre reliquie, una Grande Aquila (Grado di Sfida 6) appare magicamente dall'ombra, evocata dagli spiriti protettori che vegliano su questo luogo.
+Comportamento dei Mostri
+Attivazione: Le aquile restano immobili fino a quando i personaggi cercano di rubare uno degli oggetti sacri nascosti nell'altare, come lo scrigno o la statua d'aquila. Al tentativo di sottrazione, le Aquile Guardiane si animano improvvisamente.
+Coordinazione di Attacco: Le Aquile Guardiane sfruttano il loro "Attacco Coordinato" per ottenere un vantaggio sugli intrusi. La Grande Aquila, evocata come ultima difesa, utilizza la sua "Visione Leggendaria" per osservare ogni mossa dei personaggi e coordinare i suoi attacchi.
+Protezione del Tesoro: Se i personaggi si arrendono o rimettono gli oggetti rubati al loro posto, le aquile cessano l'attacco e tornano lentamente al loro stato inerme, fondendosi nuovamente nei murales.
+Strategia di Combattimento
+Le Aquile Guardiane attaccano con furia chiunque si avvicini al tesoro dopo che è stato toccato, volando per mantenersi lontane dalle armi di mischia ogni volta che è possibile.
+La Grande Aquila, una volta evocata, utilizza il suo "Attacco in Picchiata" per infliggere ingenti danni e buttar a terra i personaggi che dimostrano di essere una maggiore minaccia, mirando soprattutto a chi possiede artefatti sacri rubati.
+Questa disposizione dei mostri serve a mantenere intatta la sacralità e la protezione del luogo, rispecchiando la devozione degli antichi abitanti verso le aquile come vigilanti sovrannaturali del loro tempio.
+
 ### Stanze 2 e 3
 <img style="block" src="Stanza 2.png" alt="Stanza 2"/>
 Scendendo lungo il corridoio, giungendo infine in una piccola stanza di 4,5 metri per lato, vi trovate in un ambiente umido e quasi abbandonato. L’aria è pesante e polverosa, mentre il silenzio regna sovrano. Il pavimento in pietra, anche se ben posato, ha ceduto in alcuni punti a causa del tempo e della disattenzione, e il vuoto silenzioso della stanza è palpabile.
@@ -450,3 +556,45 @@ Eventuali Tesori o Segreti:
 Questa stanza segreta potrebbe celare anche una serie di indizi per raggiungere una parte ancora più profonda e misteriosa del tempio o per svelare un percorso alternativo per l’uscita. Il tunnel che porta qui è stato chiaramente costruito con l’intento di nascondere qualcosa di molto importante, forse un artefatto magico o una via di fuga sicura.
 
 Con queste modifiche, la stanza si adatta alla nuova configurazione che descrivi, mantenendo il mistero e la scoperta come temi centrali!
+
+### Stanza 22
+<img style="block" src="Stanza 22.png" alt="Stanza 22"/>
+Entrando nella stanza centrale di 4,5 metri di larghezza e 7,5 metri di lunghezza, vi trovate in un ambiente illuminato da piccole candele disposte su antichi candelabri fissati alle pareti. Il soffitto è più basso rispetto a quello delle sale limitrofe, conferendo alla stanza un’aria di raccoglimento e tensione. Nel mezzo, un elaborato mosaico pavimentato raffigura un’aquila che sovrasta un paesaggio montano, le sue ali aperte a dominare lo spazio.
+**Tesoro**: Al centro del mosaico vi è un piccolo scrigno di legno intarsiato, con incrostazioni di gemme azzurre e verdi. Prova di Indagine (DC 15): Chiunque si avvicini note che le gemme brillano debolmente, come se fossero incantate.
+**Trappola**: Lo scrigno è protetto da un incantesimo di polvere di pietrificazione; chi tenta di aprirlo senza sapere la parola d’ordine è colpito da un esplosione che infligge 5d6 danni magici e deve superare un tiro salvezza su Costituzione (DC 17) o essere rallentato per un minuto.
+**Contenuto dello Scrigno:**
+* 40 monete d'oro antiche, decorate con l’effigie di un’aquila.
+* Collana delle Montagne Proteggevoli: Un gioiello che concede un bonus al tiro salvezza di +2 contro incantesimi di terra o roccia.
+* Pergamena dell'Aquila Saggia: Una pergamena magica che può essere utilizzata per dare vantaggio a una prova di Intelligenza o Saggezza una volta al giorno.
+
+### Stanza 23
+<img style="block" src="Stanza 23.png" alt="Stanza 23"/>
+
+Attraversando la porta di pietra a nord, giungete in una stanza più ampia, di 7,5 metri quadrati. Le pareti sono decorate con murales che rappresentano una processione di aquile, ciascuna portante stringhe di pietre preziose. Il pavimento è segnato da simboli arcuati, scolpiti profondamente nella pietra stessa.
+**Mostro**: Un’Aquila Guardiana si cela tra i murales, pronta a intervenire se i tesori o le sigillature vengono toccati.
+**Descrizione del Mostro:**
+Aquila Guardiana (Grado di Sfida 3)
+
+Attacchi feroci e vista penetrante, proteggono il tempio con devozione istintiva.
+
+**Tesoro**: All’angolo della stanza c’è una cassa di metallo con rilievi di aquile affilate, Prova di Destrezza con Attrezzi da Scasso (DC 16): per aprire la cassa senza allarmare l'Aquila Guardiana.
+
+**Contenuto della Cassa:**
+- 20 monete d'argento lavorate con intricati motivi.  
+- Piuma d’Aquila Magica: Permette a chi la porta con sé di ottenere un incremento temporaneo alla velocità di +10 ft per 10 minuti quando lo si desidera, attivabile una volta al giorno.
+
+### Stanza 24
+<img style="block" src="Stanza 24.png" alt="Stanza 24"/>
+
+Attraversando la porta a sud, vi trovate in un’altra stanza di 7,5 metri quadrati, simmetricamente identica a quella a nord ma con differenze più sinistre nelle decorazioni. Qui, i murali rappresentano scene di tumulto, con aquile impegnate in battaglie contro creature ombrose.
+
+**Mostro**: Una Grande Aquila (Grado di Sfida 6) giace nascosta in un anfratto delle decorazioni murali, apparentemente parte del rilievo.
+
+**Descrizione del Mostro:** Grande Aquila
+Detta legge nelle alte sfere del cielo, un ferreo protettore del passato.
+
+**Trappola**: Davanti ai murali è presente una piastra di pressione nascosta (Percezione DC 18: identificarla), che se attivata rilascia una scarica elettrica a chiunque si trovi nel suo raggio di 10 piedi, infliggendo 4d8 danni da fulmine.
+
+**Tesoro**:
+10 monete d'oro e un raro Arazzo delle Aquile, del valore di 100 monete d'oro, che descrive epiche battaglie celestiali e può incanalare una leggera magia protettiva su chi lo indossa come mantella.
+Questo trio di stanze è stato concepito come un perimetro difensivo attorno a un tempo che è stato chiaramente sacro per antiche genti devote alle aquile, sorvegliato da guardiani magici e nascosti.
