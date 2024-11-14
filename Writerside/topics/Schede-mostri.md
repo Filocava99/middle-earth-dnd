@@ -1,8 +1,6 @@
 # Schede mostri
 
-# Grandi Aquile della Terra di Mezzo - Varianti
-
-## Variante 1: Aquila Guardiana della Terra di Mezzo
+## Variante 1: Aquila Guardiana
 **Categoria**: Bestia Grande  
 **Grado di Sfida**: 3 (PE 700 ciascuna)  
 **PE Totali per Incontro**: 2.250 (3 Aquile Guardiane)
@@ -19,6 +17,7 @@
 | Modificatore | +4    | +1        | +2           | -2           | +2       | +0      |
 
 **Abilità**
+
 | Tiri Salvezza | Forza +6, Saggezza +3 |
 | ------------- | ---------------------- |
 | Percezione    | +5                    |
@@ -40,7 +39,7 @@ Comune, Elfico (comprensione rudimentale)
 
 ---
 
-## Variante 2: Aquila Reale della Terra di Mezzo
+## Variante 2: Aquila Reale
 **Categoria**: Bestia Grande  
 **Grado di Sfida**: 5 (PE 1.800 ciascuna)  
 **PE Totali per Incontro**: 5.000 (1 Aquila Reale + 2 Aquile Guardiane)
@@ -78,9 +77,7 @@ Comune, Elfico (comprensione e parole semplici)
 - **Becco**. Attacco con arma da mischia: +8 a colpire, portata 5 piedi, un bersaglio. **Colpisce**: 15 (2d8 + 5) danni contundenti.
 - **Artigli**. Attacco con arma da mischia: +8 a colpire, portata 5 piedi, un bersaglio. **Colpisce**: 18 (2d10 + 5) danni taglienti. Se il bersaglio è di taglia Media o inferiore, viene afferrato (CD 14 per liberarsi).
 
-# Grandi Aquile della Terra di Mezzo - Scheda Completa
-
-## Grande Aquila della Terra di Mezzo
+## Variante 3: Grande Aquila
 **Categoria**: Bestia Enorme  
 **Grado di Sfida**: 6 (PE 2.300 ciascuna)  
 **PE Totali per Incontro**: 10.500 (2 Grandi Aquile + 1 Grande Aquila Capobranco)
@@ -123,7 +120,7 @@ Comune, Elfico (comprensione solo, parlato rudimentale), Aquilese
 
 ---
 
-## Grande Aquila Capobranco della Terra di Mezzo
+## Variante 4: Grande Aquila Reale
 **Categoria**: Bestia Enorme  
 **Grado di Sfida**: 8 (PE 3.900)  
 **PE Totali per Incontro**: 10.500 (2 Grandi Aquile da 2.300 PE ciascuna + 1 Grande Aquila Capobranco da 3.900 PE)
@@ -153,12 +150,12 @@ Comune, Elfico (comprensione solo, parlato rudimentale), Aquilese
 Comune, Elfico (comprensione e parole semplici), Aquilese
 
 **Abilità Speciali**
-- **Visione Leggendaria**. Il Capobranco ha vantaggio su tutte le prove di Percezione legate alla vista e può scoprire creature invisibili entro 30 piedi.
-- **Attacco in Picchiata**. Se il Capobranco vola per almeno 30 piedi in linea retta verso un bersaglio e lo colpisce con un attacco di artigli nello stesso turno, il bersaglio subisce un danno extra di 4d6 e deve superare un tiro salvezza di Forza (CD 16) o essere buttato a terra.
-- **Coordinazione del Branco**. Il Capobranco ottiene vantaggio sugli attacchi se almeno un altro alleato aquila è entro 5 piedi del bersaglio e non è incapacitato.
+- **Visione Leggendaria**. L'aquila reale ha vantaggio su tutte le prove di Percezione legate alla vista e può scoprire creature invisibili entro 30 piedi.
+- **Attacco in Picchiata**. Se l'aquila reale vola per almeno 30 piedi in linea retta verso un bersaglio e lo colpisce con un attacco di artigli nello stesso turno, il bersaglio subisce un danno extra di 4d6 e deve superare un tiro salvezza di Forza (CD 16) o essere buttato a terra.
+- **Coordinazione del Branco**. L'aquila reale ottiene vantaggio sugli attacchi se almeno un altro alleato aquila è entro 5 piedi del bersaglio e non è incapacitato.
 
 **Azioni**
-- **Attacco Multiplo**. Il Capobranco può compiere tre attacchi: uno con il becco e due con gli artigli.
+- **Attacco Multiplo**. L'aquila reale può compiere tre attacchi: uno con il becco e due con gli artigli.
 
 - **Becco**. Attacco con arma da mischia: +11 a colpire, portata 10 piedi, un bersaglio. **Colpisce**: 23 (4d6 + 8) danni contundenti.
 
@@ -167,6 +164,6 @@ Comune, Elfico (comprensione e parole semplici), Aquilese
 **Azioni Leggendarie**
 Il Capobranco ha 2 azioni leggendarie, da usare alla fine del turno di un’altra creatura. Può usare una sola opzione leggendaria alla volta.
 
-- **Movimento Veloce**. Il Capobranco può muoversi fino a metà della sua velocità di volo senza provocare attacchi di opportunità.
-- **Assalto Coordinato**. Il Capobranco segnala a un alleato entro 30 piedi di attaccare. L’alleato può fare un attacco aggiuntivo immediatamente.
+- **Movimento Veloce**. L'aquila reale può muoversi fino a metà della sua velocità di volo senza provocare attacchi di opportunità.
+- **Assalto Coordinato**. L'aquila reale segnala a un alleato entro 30 piedi di attaccare. L’alleato può fare un attacco aggiuntivo immediatamente.
 - **Strillo Intimidatorio (1/Azione)**. Tutte le creature ostili entro 20 piedi devono superare un tiro salvezza su Saggezza (CD 15) o essere spaventate fino alla fine del prossimo turno del Capobranco.
